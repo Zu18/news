@@ -20,4 +20,3 @@ class CustomUserChangeForm(UserChangeForm):
             "email",
             "age",
         )
-        
